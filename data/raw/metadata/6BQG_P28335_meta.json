@@ -1,0 +1,11 @@
+{
+  "pdb_id": "6BQG",
+  "uniprot_id": "P28335",
+  "af_model_id": "AF-P28335-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P28335-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 73.56,
+  "uniprot_length": 458,
+  "uniprot_organism": "Homo sapiens",
+  "rcsb_resolution": 3.0,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

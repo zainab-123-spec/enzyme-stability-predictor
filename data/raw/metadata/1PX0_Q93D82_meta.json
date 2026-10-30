@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1PX0",
+  "uniprot_id": "Q93D82",
+  "af_model_id": "AF-Q93D82-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-Q93D82-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 98.44,
+  "uniprot_length": 254,
+  "uniprot_organism": "Agrobacterium tumefaciens",
+  "rcsb_resolution": 1.9,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

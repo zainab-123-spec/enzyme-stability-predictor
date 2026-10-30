@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1CQW",
+  "uniprot_id": "P59336",
+  "af_model_id": "AF-P59336-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P59336-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 98.06,
+  "uniprot_length": 294,
+  "uniprot_organism": "Rhodococcus sp. (strain TDTM0003)",
+  "rcsb_resolution": 1.5,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1AJ3",
+  "uniprot_id": "P07751",
+  "af_model_id": "AF-P07751-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P07751-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 75.62,
+  "uniprot_length": 2477,
+  "uniprot_organism": "Gallus gallus",
+  "rcsb_resolution": null,
+  "rcsb_method": "SOLUTION NMR"
+}

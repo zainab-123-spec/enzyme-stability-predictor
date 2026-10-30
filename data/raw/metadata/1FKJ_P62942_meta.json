@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1FKJ",
+  "uniprot_id": "P62942",
+  "af_model_id": "AF-P62942-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P62942-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 96.25,
+  "uniprot_length": 108,
+  "uniprot_organism": "Homo sapiens",
+  "rcsb_resolution": 1.7,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

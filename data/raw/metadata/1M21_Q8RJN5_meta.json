@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1M21",
+  "uniprot_id": "Q8RJN5",
+  "af_model_id": "AF-Q8RJN5-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-Q8RJN5-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 92.94,
+  "uniprot_length": 540,
+  "uniprot_organism": "Stenotrophomonas maltophilia",
+  "rcsb_resolution": 1.8,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

@@ -1,0 +1,11 @@
+{
+  "pdb_id": "3D2A",
+  "uniprot_id": "P37957",
+  "af_model_id": "AF-P37957-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P37957-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 91.88,
+  "uniprot_length": 212,
+  "uniprot_organism": "Bacillus subtilis (strain 168)",
+  "rcsb_resolution": 1.73,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

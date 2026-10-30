@@ -1,0 +1,37 @@
+pdb_id,uniprot_id,protein_name,organism,assay_type,n_mutations,mean_af_plddt,spearman_blosum62,spearman_neg_plddt,spearman_hgb_group,spearman_ensemble_group,spearman_ensemble_random
+1STN,P00644,Staphylococcal nuclease,Staphylococcus aureus,ddG,526,96.39,0.2412,0.4595,0.5619,0.6207,0.736
+1BNI,P00648,Barnase ribonuclease,Bacillus amyloliquefaciens,ddG,171,98.65,0.2921,0.3954,0.6041,0.5834,0.6392
+1LZ1,P61626,Lysozyme C,Homo sapiens,ddG,115,98.21,0.1146,0.4717,0.5885,0.6255,0.6648
+1RX4,P0ABQ4,Dihydrofolate reductase,Escherichia coli,ddG,113,97.05,0.1019,0.4386,0.3912,0.4759,0.622
+2RN2,P0A7Y4,Ribonuclease H,Escherichia coli,ddG,77,96.78,0.025,0.343,0.0929,0.2341,0.3519
+1BVC,P02185,Myoglobin,Physeter catodon,ddG,73,98.26,0.0695,0.3349,0.5525,0.5273,0.5442
+1BU4,P00651,Ribonuclease T1,Aspergillus oryzae,ddG,71,98.25,-0.0443,0.1702,0.4363,0.4363,0.6004
+1SHF,P06241,Tyrosine-protein kinase Fyn SH3,Homo sapiens,ddG,70,94.96,0.3978,-0.042,0.3191,0.3115,0.3585
+1RGG,P05798,Guanyl-specific ribonuclease Sa,Streptomyces aureofaciens,ddG,68,98.58,-0.1838,0.019,0.2668,0.2405,0.325
+1AJ3,P07751,Spectrin alpha chain SH3,Gallus gallus,ddG,66,83.16,0.0274,0.379,0.6474,0.6626,0.7274
+1BPI,P00974,Pancreatic trypsin inhibitor (BPTI),Bos taurus,ddG,66,97.81,0.2306,0.5024,0.6239,0.6402,0.6764
+4GWT,Q13526,Peptidyl-prolyl isomerase Pin1,Homo sapiens,ddG,64,93.58,0.1734,0.3213,0.4131,0.4868,0.5377
+4LYZ,P00698,Hen egg-white lysozyme C,Gallus gallus,ddG,62,97.55,-0.0412,0.1656,0.5282,0.4228,0.4362
+4HXJ,P12931,Proto-oncogene tyrosine kinase Src,Homo sapiens,ddG,57,94.59,0.045,0.4744,0.4694,0.5272,0.5972
+1RTB,P61823,Pancreatic ribonuclease A,Bos taurus,ddG,57,98.61,0.5,0.3206,0.6231,0.622,0.6235
+1FKJ,P62942,Peptidyl-prolyl isomerase FKBP1A,Homo sapiens,ddG,53,96.9,0.4676,0.2569,0.5923,0.6479,0.7654
+1CSP,P32081,Cold shock protein CspB,Bacillus subtilis,ddG,50,94.64,-0.0252,0.3151,0.2339,0.2318,0.2835
+2HBB,P02417,30S ribosomal protein S6,Thermus thermophilus,ddG,47,93.79,0.2293,0.2966,0.5925,0.6796,0.7195
+2TRX,P0AA25,Thioredoxin-1,Escherichia coli,ddG,47,96.06,0.2752,0.2961,0.497,0.5136,0.5721
+1UZC,O75400,Pre-mRNA-processing factor 40A,Homo sapiens,ddG,47,87.22,0.185,0.0787,0.4988,0.465,0.3837
+1FTG,P0A3E0,Flavodoxin,Desulfovibrio vulgaris,ddG,45,98.44,-0.1775,0.4318,0.3272,0.3706,0.4379
+1TUP,P04637,Cellular tumor antigen p53,Homo sapiens,ddG,43,96.53,0.2217,0.3047,0.2215,0.4095,0.4142
+1UBQ,P0CG48,Ubiquitin,Homo sapiens,ddG,34,90.96,-0.1119,0.126,0.0608,0.1502,0.1574
+6G4B,A0A2W0F5X5,Thermophilic omega-transaminase,Thermomicrobium roseum,dTm,211,97.84,0.0446,0.2445,0.2265,0.2165,0.3149
+1PX0,Q93D82,Haloalkane dehalogenase DhaA,Rhodococcus rhodochrous,dTm,154,98.52,0.1206,0.1041,0.2385,0.1902,0.2286
+3WP4,Q9UV68,"Endo-1,4-beta-xylanase",Aspergillus niger,dTm,84,97.04,0.1205,-0.0696,0.0462,0.1105,0.2608
+2O9P,P22505,Endoglucanase Cel5A,Bacillus agaradhaerens,dTm,79,98.7,0.0966,-0.0885,0.1232,0.0765,0.0785
+3VUB,P62554,Thermostable beta-glucosidase,Thermotoga maritima,dTm,50,96.93,0.2474,0.1579,0.2185,0.2262,0.3374
+3TGL,P19515,Triacylglycerol lipase,Rhizomucor miehei,dTm,36,94.94,0.2766,0.4452,0.3675,0.4831,0.5438
+6BQG,P28335,5-HT2C receptor construct,Homo sapiens,dTm,30,91.73,-0.3837,-0.0007,-0.1122,-0.3035,-0.5006
+4E5K,O69054,"Limonene-1,2-epoxide hydrolase",Rhodococcus erythropolis,dTm,25,98.22,-0.0455,0.1422,0.2751,0.2489,0.2478
+4ZLU,B3VI55,Cutinase / PETase homolog,Streptomyces sp.,dTm,19,96.9,-0.1619,-0.0599,-0.2107,-0.3494,-0.3301
+3D2A,P37957,Lipase EstA (BsubL),Bacillus subtilis,dTm,16,98.3,-0.2316,0.2954,-0.0074,-0.1089,-0.0132
+1CF3,P13006,Glucose oxidase,Aspergillus niger,dTm,16,98.42,0.369,0.0892,0.2482,0.3753,0.3965
+1CQW,P59336,Haloalkane dehalogenase LinB,Sphingobium japonicum,dTm,12,97.97,0.1473,0.2184,0.3007,0.1189,0.035
+1M21,Q8RJN5,Histidine acid phytase,Yersinia intermedia,dTm,12,97.62,0.2245,0.3285,0.7869,0.4984,0.4609

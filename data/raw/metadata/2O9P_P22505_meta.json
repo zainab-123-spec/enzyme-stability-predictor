@@ -1,0 +1,11 @@
+{
+  "pdb_id": "2O9P",
+  "uniprot_id": "P22505",
+  "af_model_id": "AF-P22505-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P22505-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 98.19,
+  "uniprot_length": 448,
+  "uniprot_organism": "Paenibacillus polymyxa",
+  "rcsb_resolution": 2.1,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

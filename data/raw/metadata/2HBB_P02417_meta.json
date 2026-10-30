@@ -1,0 +1,11 @@
+{
+  "pdb_id": "2HBB",
+  "uniprot_id": "P02417",
+  "af_model_id": "AF-P02417-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P02417-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 92.12,
+  "uniprot_length": 149,
+  "uniprot_organism": "Geobacillus stearothermophilus",
+  "rcsb_resolution": 1.9,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

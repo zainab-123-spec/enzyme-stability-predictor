@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1RGG",
+  "uniprot_id": "P05798",
+  "af_model_id": "AF-P05798-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P05798-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 98.44,
+  "uniprot_length": 96,
+  "uniprot_organism": "Kitasatospora aureofaciens",
+  "rcsb_resolution": 1.2,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

@@ -1,0 +1,11 @@
+{
+  "pdb_id": "4GWT",
+  "uniprot_id": "Q13526",
+  "af_model_id": "AF-Q13526-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-Q13526-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 91.62,
+  "uniprot_length": 163,
+  "uniprot_organism": "Homo sapiens",
+  "rcsb_resolution": 2.25,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

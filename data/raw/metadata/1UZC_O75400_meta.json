@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1UZC",
+  "uniprot_id": "O75400",
+  "af_model_id": "AF-O75400-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-O75400-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 66.5,
+  "uniprot_length": 957,
+  "uniprot_organism": "Homo sapiens",
+  "rcsb_resolution": null,
+  "rcsb_method": "SOLUTION NMR"
+}

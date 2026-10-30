@@ -1,0 +1,11 @@
+{
+  "pdb_id": "4ZLU",
+  "uniprot_id": "B3VI55",
+  "af_model_id": "AF-B3VI55-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-B3VI55-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 95.44,
+  "uniprot_length": 439,
+  "uniprot_organism": "Lipomyces starkeyi",
+  "rcsb_resolution": 1.8,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

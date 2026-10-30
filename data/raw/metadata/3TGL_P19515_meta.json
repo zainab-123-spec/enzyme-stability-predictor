@@ -1,0 +1,11 @@
+{
+  "pdb_id": "3TGL",
+  "uniprot_id": "P19515",
+  "af_model_id": "AF-P19515-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P19515-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 89.31,
+  "uniprot_length": 363,
+  "uniprot_organism": "Rhizomucor miehei",
+  "rcsb_resolution": 1.9,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

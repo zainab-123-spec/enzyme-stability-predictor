@@ -1,0 +1,11 @@
+{
+  "pdb_id": "4E5K",
+  "uniprot_id": "O69054",
+  "af_model_id": "AF-O69054-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-O69054-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 97.19,
+  "uniprot_length": 336,
+  "uniprot_organism": "Stutzerimonas stutzeri",
+  "rcsb_resolution": 1.95,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

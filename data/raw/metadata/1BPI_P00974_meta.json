@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1BPI",
+  "uniprot_id": "P00974",
+  "af_model_id": "AF-P00974-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P00974-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 83.5,
+  "uniprot_length": 100,
+  "uniprot_organism": "Bos taurus",
+  "rcsb_resolution": 1.09,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

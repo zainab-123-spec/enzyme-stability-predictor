@@ -1,0 +1,196 @@
+{
+  "n_mutations": 2766,
+  "n_proteins": 36,
+  "n_ddg_mutations": 2022,
+  "n_dtm_mutations": 744,
+  "n_ddg_proteins": 23,
+  "n_dtm_proteins": 13,
+  "shared_proteins_group_kfold": 0,
+  "mean_shared_proteins_random_kfold": 36.0,
+  "metrics": [
+    {
+      "model": "BLOSUM62 Baseline",
+      "split_scheme": "Zero-Shot (Protein-Agnostic)",
+      "mean_protein_spearman": 0.1066,
+      "global_spearman_rank": 0.1349,
+      "global_spearman_raw": 0.1273,
+      "ddg_cohort_spearman": 0.131,
+      "dtm_cohort_spearman": 0.0634,
+      "rank_rmse": 0.3764,
+      "stabilizing_roc_auc": 0.511
+    },
+    {
+      "model": "AlphaFold -pLDDT Baseline",
+      "split_scheme": "Zero-Shot (Protein-Agnostic)",
+      "mean_protein_spearman": 0.2407,
+      "global_spearman_rank": 0.2142,
+      "global_spearman_raw": 0.2049,
+      "ddg_cohort_spearman": 0.2982,
+      "dtm_cohort_spearman": 0.139,
+      "rank_rmse": 0.3615,
+      "stabilizing_roc_auc": 0.5798
+    },
+    {
+      "model": "3D -Packing (10A) Baseline",
+      "split_scheme": "Zero-Shot (Protein-Agnostic)",
+      "mean_protein_spearman": 0.2319,
+      "global_spearman_rank": 0.2733,
+      "global_spearman_raw": 0.2551,
+      "ddg_cohort_spearman": 0.3317,
+      "dtm_cohort_spearman": 0.0553,
+      "rank_rmse": 0.3475,
+      "stabilizing_roc_auc": 0.5866
+    },
+    {
+      "model": "Zero-Shot Biophysical Rank",
+      "split_scheme": "Zero-Shot (Protein-Agnostic)",
+      "mean_protein_spearman": 0.2546,
+      "global_spearman_rank": 0.2892,
+      "global_spearman_raw": 0.2785,
+      "ddg_cohort_spearman": 0.3288,
+      "dtm_cohort_spearman": 0.1233,
+      "rank_rmse": 0.2886,
+      "stabilizing_roc_auc": 0.5787
+    },
+    {
+      "model": "Ridge Regression",
+      "split_scheme": "GroupKFold (Protein-Held-Out)",
+      "mean_protein_spearman": 0.341,
+      "global_spearman_rank": 0.3574,
+      "global_spearman_raw": 0.3574,
+      "ddg_cohort_spearman": 0.4683,
+      "dtm_cohort_spearman": 0.1158,
+      "rank_rmse": 0.2671,
+      "stabilizing_roc_auc": 0.6254
+    },
+    {
+      "model": "Random Forest",
+      "split_scheme": "GroupKFold (Protein-Held-Out)",
+      "mean_protein_spearman": 0.3148,
+      "global_spearman_rank": 0.3644,
+      "global_spearman_raw": 0.3775,
+      "ddg_cohort_spearman": 0.4378,
+      "dtm_cohort_spearman": 0.0971,
+      "rank_rmse": 0.2654,
+      "stabilizing_roc_auc": 0.6364
+    },
+    {
+      "model": "HistGradientBoosting",
+      "split_scheme": "GroupKFold (Protein-Held-Out)",
+      "mean_protein_spearman": 0.3512,
+      "global_spearman_rank": 0.3786,
+      "global_spearman_raw": 0.3908,
+      "ddg_cohort_spearman": 0.4409,
+      "dtm_cohort_spearman": 0.1924,
+      "rank_rmse": 0.2654,
+      "stabilizing_roc_auc": 0.6448
+    },
+    {
+      "model": "Kaggle Rank-Average Ensemble",
+      "split_scheme": "GroupKFold (Protein-Held-Out)",
+      "mean_protein_spearman": 0.3519,
+      "global_spearman_rank": 0.3909,
+      "global_spearman_raw": 0.3963,
+      "ddg_cohort_spearman": 0.4733,
+      "dtm_cohort_spearman": 0.1371,
+      "rank_rmse": 0.2994,
+      "stabilizing_roc_auc": 0.6395
+    },
+    {
+      "model": "Ridge Regression",
+      "split_scheme": "Random KFold (Protein Leakage)",
+      "mean_protein_spearman": 0.349,
+      "global_spearman_rank": 0.39,
+      "global_spearman_raw": 0.3796,
+      "ddg_cohort_spearman": 0.488,
+      "dtm_cohort_spearman": 0.103,
+      "rank_rmse": 0.2625,
+      "stabilizing_roc_auc": 0.6403
+    },
+    {
+      "model": "Random Forest",
+      "split_scheme": "Random KFold (Protein Leakage)",
+      "mean_protein_spearman": 0.3905,
+      "global_spearman_rank": 0.492,
+      "global_spearman_raw": 0.459,
+      "ddg_cohort_spearman": 0.5209,
+      "dtm_cohort_spearman": 0.1598,
+      "rank_rmse": 0.2492,
+      "stabilizing_roc_auc": 0.6744
+    },
+    {
+      "model": "HistGradientBoosting",
+      "split_scheme": "Random KFold (Protein Leakage)",
+      "mean_protein_spearman": 0.4089,
+      "global_spearman_rank": 0.5133,
+      "global_spearman_raw": 0.4792,
+      "ddg_cohort_spearman": 0.533,
+      "dtm_cohort_spearman": 0.1894,
+      "rank_rmse": 0.2452,
+      "stabilizing_roc_auc": 0.6893
+    },
+    {
+      "model": "Kaggle Rank-Average Ensemble",
+      "split_scheme": "Random KFold (Protein Leakage)",
+      "mean_protein_spearman": 0.3954,
+      "global_spearman_rank": 0.4824,
+      "global_spearman_raw": 0.4554,
+      "ddg_cohort_spearman": 0.5293,
+      "dtm_cohort_spearman": 0.1585,
+      "rank_rmse": 0.2755,
+      "stabilizing_roc_auc": 0.6698
+    }
+  ],
+  "top_features": [
+    {
+      "feature": "af_plddt",
+      "importance_mean": 0.09962,
+      "importance_std": 0.0038
+    },
+    {
+      "feature": "ca_packing_10a",
+      "importance_mean": 0.09113,
+      "importance_std": 0.00344
+    },
+    {
+      "feature": "delta_sheet_prop",
+      "importance_mean": 0.08997,
+      "importance_std": 0.00316
+    },
+    {
+      "feature": "ca_packing_15a",
+      "importance_mean": 0.06653,
+      "importance_std": 0.00286
+    },
+    {
+      "feature": "rel_seq_pos",
+      "importance_mean": 0.06433,
+      "importance_std": 0.00366
+    },
+    {
+      "feature": "delta_hydrophobicity",
+      "importance_mean": 0.05226,
+      "importance_std": 0.00483
+    },
+    {
+      "feature": "rel_dist_center",
+      "importance_mean": 0.04531,
+      "importance_std": 0.00277
+    },
+    {
+      "feature": "local_backbone_bend",
+      "importance_mean": 0.03942,
+      "importance_std": 0.00197
+    },
+    {
+      "feature": "blosum62",
+      "importance_mean": 0.03937,
+      "importance_std": 0.00301
+    },
+    {
+      "feature": "af_window_plddt",
+      "importance_mean": 0.03783,
+      "importance_std": 0.00211
+    }
+  ]
+}
