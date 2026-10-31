@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1LZ1",
+  "uniprot_id": "P61626",
+  "af_model_id": "AF-P61626-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P61626-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 94.06,
+  "uniprot_length": 148,
+  "uniprot_organism": "Homo sapiens",
+  "rcsb_resolution": 1.5,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

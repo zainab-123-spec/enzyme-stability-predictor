@@ -1,0 +1,37 @@
+pdb_id,uniprot_id,af_model_id,af_pdb_url,af_GlobalMetricValue,uniprot_length,uniprot_organism,rcsb_resolution,rcsb_method,protein_name,organism,assay
+1STN,P00644,AF-P00644-F1,https://alphafold.ebi.ac.uk/files/AF-P00644-F1-model_v6.pdb,82.19,231,Staphylococcus aureus,1.7,X-RAY DIFFRACTION,Staphylococcal nuclease,Staphylococcus aureus,ddG
+1BNI,P00648,AF-P00648-F1,https://alphafold.ebi.ac.uk/files/AF-P00648-F1-model_v6.pdb,84.5,157,Bacillus amyloliquefaciens,2.1,X-RAY DIFFRACTION,Barnase ribonuclease,Bacillus amyloliquefaciens,ddG
+1LZ1,P61626,AF-P61626-F1,https://alphafold.ebi.ac.uk/files/AF-P61626-F1-model_v6.pdb,94.06,148,Homo sapiens,1.5,X-RAY DIFFRACTION,Lysozyme C,Homo sapiens,ddG
+1RX4,P0ABQ4,AF-P0ABQ4-F1,https://alphafold.ebi.ac.uk/files/AF-P0ABQ4-F1-model_v6.pdb,96.44,159,Escherichia coli (strain K12),2.2,X-RAY DIFFRACTION,Dihydrofolate reductase,Escherichia coli,ddG
+2RN2,P0A7Y4,AF-P0A7Y4-F1,https://alphafold.ebi.ac.uk/files/AF-P0A7Y4-F1-model_v6.pdb,95.62,155,Escherichia coli (strain K12),1.48,X-RAY DIFFRACTION,Ribonuclease H,Escherichia coli,ddG
+1BVC,P02185,AF-P02185-F1,https://alphafold.ebi.ac.uk/files/AF-P02185-F1-model_v6.pdb,97.5,154,Physeter macrocephalus,1.5,X-RAY DIFFRACTION,Myoglobin,Physeter catodon,ddG
+1BU4,P00651,AF-P00651-F1,https://alphafold.ebi.ac.uk/files/AF-P00651-F1-model_v6.pdb,91.62,130,Aspergillus oryzae (strain ATCC 42149 / RIB 40),1.9,X-RAY DIFFRACTION,Ribonuclease T1,Aspergillus oryzae,ddG
+1SHF,P06241,AF-P06241-F1,https://alphafold.ebi.ac.uk/files/AF-P06241-F1-model_v6.pdb,80.81,537,Homo sapiens,1.9,X-RAY DIFFRACTION,Tyrosine-protein kinase Fyn SH3,Homo sapiens,ddG
+1RGG,P05798,AF-P05798-F1,https://alphafold.ebi.ac.uk/files/AF-P05798-F1-model_v6.pdb,98.44,96,Kitasatospora aureofaciens,1.2,X-RAY DIFFRACTION,Guanyl-specific ribonuclease Sa,Streptomyces aureofaciens,ddG
+1AJ3,P07751,AF-P07751-F1,https://alphafold.ebi.ac.uk/files/AF-P07751-F1-model_v6.pdb,75.62,2477,Gallus gallus,,SOLUTION NMR,Spectrin alpha chain SH3,Gallus gallus,ddG
+1BPI,P00974,AF-P00974-F1,https://alphafold.ebi.ac.uk/files/AF-P00974-F1-model_v6.pdb,83.5,100,Bos taurus,1.09,X-RAY DIFFRACTION,Pancreatic trypsin inhibitor (BPTI),Bos taurus,ddG
+4GWT,Q13526,AF-Q13526-F1,https://alphafold.ebi.ac.uk/files/AF-Q13526-F1-model_v6.pdb,91.62,163,Homo sapiens,2.25,X-RAY DIFFRACTION,Peptidyl-prolyl isomerase Pin1,Homo sapiens,ddG
+4LYZ,P00698,AF-P00698-F1,https://alphafold.ebi.ac.uk/files/AF-P00698-F1-model_v6.pdb,93.88,147,Gallus gallus,2.0,X-RAY DIFFRACTION,Hen egg-white lysozyme C,Gallus gallus,ddG
+4HXJ,P12931,AF-P12931-F1,https://alphafold.ebi.ac.uk/files/AF-P12931-F1-model_v6.pdb,83.44,536,Homo sapiens,2.0,X-RAY DIFFRACTION,Proto-oncogene tyrosine kinase Src,Homo sapiens,ddG
+1RTB,P61823,AF-P61823-F1,https://alphafold.ebi.ac.uk/files/AF-P61823-F1-model_v6.pdb,94.06,150,Bos taurus,2.5,X-RAY DIFFRACTION,Pancreatic ribonuclease A,Bos taurus,ddG
+1FKJ,P62942,AF-P62942-F1,https://alphafold.ebi.ac.uk/files/AF-P62942-F1-model_v6.pdb,96.25,108,Homo sapiens,1.7,X-RAY DIFFRACTION,Peptidyl-prolyl isomerase FKBP1A,Homo sapiens,ddG
+1CSP,P32081,AF-P32081-F1,https://alphafold.ebi.ac.uk/files/AF-P32081-F1-model_v6.pdb,94.5,67,Bacillus subtilis (strain 168),2.45,X-RAY DIFFRACTION,Cold shock protein CspB,Bacillus subtilis,ddG
+2HBB,P02417,AF-P02417-F1,https://alphafold.ebi.ac.uk/files/AF-P02417-F1-model_v6.pdb,92.12,149,Geobacillus stearothermophilus,1.9,X-RAY DIFFRACTION,30S ribosomal protein S6,Thermus thermophilus,ddG
+2TRX,P0AA25,AF-P0AA25-F1,https://alphafold.ebi.ac.uk/files/AF-P0AA25-F1-model_v6.pdb,95.12,109,Escherichia coli (strain K12),1.68,X-RAY DIFFRACTION,Thioredoxin-1,Escherichia coli,ddG
+1UZC,O75400,AF-O75400-F1,https://alphafold.ebi.ac.uk/files/AF-O75400-F1-model_v6.pdb,66.5,957,Homo sapiens,,SOLUTION NMR,Pre-mRNA-processing factor 40A,Homo sapiens,ddG
+1FTG,P0A3E0,AF-P0A3E0-F1,https://alphafold.ebi.ac.uk/files/AF-P0A3E0-F1-model_v6.pdb,97.5,170,Nostoc sp. (strain ATCC 29151 / PCC 7119),2.0,X-RAY DIFFRACTION,Flavodoxin,Desulfovibrio vulgaris,ddG
+1TUP,P04637,AF-P04637-F1,https://alphafold.ebi.ac.uk/files/AF-P04637-F1-model_v6.pdb,75.06,393,Homo sapiens,2.2,X-RAY DIFFRACTION,Cellular tumor antigen p53,Homo sapiens,ddG
+1UBQ,P0CG48,AF-P0CG48-F1,https://alphafold.ebi.ac.uk/files/AF-P0CG48-F1-model_v6.pdb,88.62,685,Homo sapiens,1.8,X-RAY DIFFRACTION,Ubiquitin,Homo sapiens,ddG
+6G4B,A0A2W0F5X5,AF-A0A2W0F5X5-F1,https://alphafold.ebi.ac.uk/files/AF-A0A2W0F5X5-F1-model_v6.pdb,97.62,455,Pseudomonas jessenii,1.8,X-RAY DIFFRACTION,Thermophilic omega-transaminase,Thermomicrobium roseum,dTm
+1PX0,Q93D82,AF-Q93D82-F1,https://alphafold.ebi.ac.uk/files/AF-Q93D82-F1-model_v6.pdb,98.44,254,Agrobacterium tumefaciens,1.9,X-RAY DIFFRACTION,Haloalkane dehalogenase DhaA,Rhodococcus rhodochrous,dTm
+3WP4,Q9UV68,AF-Q9UV68-F1,https://alphafold.ebi.ac.uk/files/AF-Q9UV68-F1-model_v6.pdb,71.12,485,Neocallimastix patriciarum,1.27,X-RAY DIFFRACTION,"Endo-1,4-beta-xylanase",Aspergillus niger,dTm
+2O9P,P22505,AF-P22505-F1,https://alphafold.ebi.ac.uk/files/AF-P22505-F1-model_v6.pdb,98.19,448,Paenibacillus polymyxa,2.1,X-RAY DIFFRACTION,Endoglucanase Cel5A,Bacillus agaradhaerens,dTm
+3VUB,P62554,AF-P62554-F1,https://alphafold.ebi.ac.uk/files/AF-P62554-F1-model_v6.pdb,95.5,101,Escherichia coli (strain K12),1.4,X-RAY DIFFRACTION,Thermostable beta-glucosidase,Thermotoga maritima,dTm
+3TGL,P19515,AF-P19515-F1,https://alphafold.ebi.ac.uk/files/AF-P19515-F1-model_v6.pdb,89.31,363,Rhizomucor miehei,1.9,X-RAY DIFFRACTION,Triacylglycerol lipase,Rhizomucor miehei,dTm
+6BQG,P28335,AF-P28335-F1,https://alphafold.ebi.ac.uk/files/AF-P28335-F1-model_v6.pdb,73.56,458,Homo sapiens,3.0,X-RAY DIFFRACTION,5-HT2C receptor construct,Homo sapiens,dTm
+4E5K,O69054,AF-O69054-F1,https://alphafold.ebi.ac.uk/files/AF-O69054-F1-model_v6.pdb,97.19,336,Stutzerimonas stutzeri,1.95,X-RAY DIFFRACTION,"Limonene-1,2-epoxide hydrolase",Rhodococcus erythropolis,dTm
+4ZLU,B3VI55,AF-B3VI55-F1,https://alphafold.ebi.ac.uk/files/AF-B3VI55-F1-model_v6.pdb,95.44,439,Lipomyces starkeyi,1.8,X-RAY DIFFRACTION,Cutinase / PETase homolog,Streptomyces sp.,dTm
+3D2A,P37957,AF-P37957-F1,https://alphafold.ebi.ac.uk/files/AF-P37957-F1-model_v6.pdb,91.88,212,Bacillus subtilis (strain 168),1.73,X-RAY DIFFRACTION,Lipase EstA (BsubL),Bacillus subtilis,dTm
+1CF3,P13006,AF-P13006-F1,https://alphafold.ebi.ac.uk/files/AF-P13006-F1-model_v6.pdb,96.25,605,Aspergillus niger,1.9,X-RAY DIFFRACTION,Glucose oxidase,Aspergillus niger,dTm
+1CQW,P59336,AF-P59336-F1,https://alphafold.ebi.ac.uk/files/AF-P59336-F1-model_v6.pdb,98.06,294,Rhodococcus sp. (strain TDTM0003),1.5,X-RAY DIFFRACTION,Haloalkane dehalogenase LinB,Sphingobium japonicum,dTm
+1M21,Q8RJN5,AF-Q8RJN5-F1,https://alphafold.ebi.ac.uk/files/AF-Q8RJN5-F1-model_v6.pdb,92.94,540,Stenotrophomonas maltophilia,1.8,X-RAY DIFFRACTION,Histidine acid phytase,Yersinia intermedia,dTm

@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1CF3",
+  "uniprot_id": "P13006",
+  "af_model_id": "AF-P13006-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P13006-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 96.25,
+  "uniprot_length": 605,
+  "uniprot_organism": "Aspergillus niger",
+  "rcsb_resolution": 1.9,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

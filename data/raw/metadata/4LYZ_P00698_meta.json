@@ -1,0 +1,11 @@
+{
+  "pdb_id": "4LYZ",
+  "uniprot_id": "P00698",
+  "af_model_id": "AF-P00698-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P00698-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 93.88,
+  "uniprot_length": 147,
+  "uniprot_organism": "Gallus gallus",
+  "rcsb_resolution": 2.0,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

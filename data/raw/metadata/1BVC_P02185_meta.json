@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1BVC",
+  "uniprot_id": "P02185",
+  "af_model_id": "AF-P02185-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P02185-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 97.5,
+  "uniprot_length": 154,
+  "uniprot_organism": "Physeter macrocephalus",
+  "rcsb_resolution": 1.5,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

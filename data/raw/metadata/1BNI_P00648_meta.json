@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1BNI",
+  "uniprot_id": "P00648",
+  "af_model_id": "AF-P00648-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P00648-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 84.5,
+  "uniprot_length": 157,
+  "uniprot_organism": "Bacillus amyloliquefaciens",
+  "rcsb_resolution": 2.1,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1FTG",
+  "uniprot_id": "P0A3E0",
+  "af_model_id": "AF-P0A3E0-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P0A3E0-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 97.5,
+  "uniprot_length": 170,
+  "uniprot_organism": "Nostoc sp. (strain ATCC 29151 / PCC 7119)",
+  "rcsb_resolution": 2.0,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

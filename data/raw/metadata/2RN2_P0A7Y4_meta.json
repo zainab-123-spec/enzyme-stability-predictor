@@ -1,0 +1,11 @@
+{
+  "pdb_id": "2RN2",
+  "uniprot_id": "P0A7Y4",
+  "af_model_id": "AF-P0A7Y4-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P0A7Y4-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 95.62,
+  "uniprot_length": 155,
+  "uniprot_organism": "Escherichia coli (strain K12)",
+  "rcsb_resolution": 1.48,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

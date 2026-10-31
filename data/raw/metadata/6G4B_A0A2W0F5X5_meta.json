@@ -1,0 +1,11 @@
+{
+  "pdb_id": "6G4B",
+  "uniprot_id": "A0A2W0F5X5",
+  "af_model_id": "AF-A0A2W0F5X5-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-A0A2W0F5X5-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 97.62,
+  "uniprot_length": 455,
+  "uniprot_organism": "Pseudomonas jessenii",
+  "rcsb_resolution": 1.8,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

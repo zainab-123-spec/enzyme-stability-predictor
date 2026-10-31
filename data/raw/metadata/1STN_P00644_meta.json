@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1STN",
+  "uniprot_id": "P00644",
+  "af_model_id": "AF-P00644-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P00644-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 82.19,
+  "uniprot_length": 231,
+  "uniprot_organism": "Staphylococcus aureus",
+  "rcsb_resolution": 1.7,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

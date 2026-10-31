@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1CSP",
+  "uniprot_id": "P32081",
+  "af_model_id": "AF-P32081-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P32081-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 94.5,
+  "uniprot_length": 67,
+  "uniprot_organism": "Bacillus subtilis (strain 168)",
+  "rcsb_resolution": 2.45,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1TUP",
+  "uniprot_id": "P04637",
+  "af_model_id": "AF-P04637-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P04637-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 75.06,
+  "uniprot_length": 393,
+  "uniprot_organism": "Homo sapiens",
+  "rcsb_resolution": 2.2,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}

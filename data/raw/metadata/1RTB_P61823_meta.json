@@ -1,0 +1,11 @@
+{
+  "pdb_id": "1RTB",
+  "uniprot_id": "P61823",
+  "af_model_id": "AF-P61823-F1",
+  "af_pdb_url": "https://alphafold.ebi.ac.uk/files/AF-P61823-F1-model_v6.pdb",
+  "af_GlobalMetricValue": 94.06,
+  "uniprot_length": 150,
+  "uniprot_organism": "Bos taurus",
+  "rcsb_resolution": 2.5,
+  "rcsb_method": "X-RAY DIFFRACTION"
+}
